@@ -1,0 +1,12 @@
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.project
+*.classpath
+*.jardesc
+*.xml
+*.iml
+*.jbtwa
